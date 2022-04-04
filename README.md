@@ -1,8 +1,8 @@
--Hello fellow nerds, I am Doomsdaybear!
+Hello fellow nerds, I am Doomsdaybear!
  
 -I've been coding since 2016
 
-- Favorite language: Javascript
+- Favorite language is Javascript
 
 -Preferred IDE: Visual Studio Code
  
