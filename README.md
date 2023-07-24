@@ -1,9 +1,5 @@
-Hello fellow nerds, I am Doomsdaybear!
- 
--I've been coding since 2016
-
-- Favorite language is Javascript
+I can code :D
 
 -Preferred IDE: Visual Studio Code
- 
- Enjoy!
+-Started in 2016 with Scratch
+-lot of HTML/JS and Python projects.
